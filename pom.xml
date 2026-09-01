@@ -10,22 +10,7 @@
 	</parent>
 	<groupId>com.desahuciados</groupId>
 	<artifactId>git</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name/>
-	<description/>
-	<url/>
-	<licenses>
-		<license/>
-	</licenses>
-	<developers>
-		<developer/>
-	</developers>
-	<scm>
-		<connection/>
-		<developerConnection/>
-		<tag/>
-		<url/>
-	</scm>
+	<version>0.0.2</version>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
